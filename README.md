@@ -1,6 +1,6 @@
-# fundraising_intern_portal
+# Fundraising Intern Portal
 
-A new Flutter project.
+A Flutter-based mobile application designed to help fundraising interns manage, track, and visualize their performance, including leaderboard rankings, announcements, and rewards.
 
 ## Getting Started
 
@@ -14,3 +14,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+---
+
+## ✨ Features
+
+- **Login & Logout** system
+- **Dashboard** with personalized welcome and rewards display
+- **Leaderboard** showcasing top performers
+- **Announcements** for latest updates and incentives
+- **App Drawer** for smooth navigation between sections
+- Accessible design for easy use by interns
+
+---
+
+## 🔧 Tech Stack
+
+- Flutter 
+- Dart 
+- Firebase (optional for future integration)
+- Android/iOS support
